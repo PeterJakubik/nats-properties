@@ -1,0 +1,5 @@
+nats:
+  spring:
+    server: nats://localhost:4222
+
+io.nats.client.cleanupinterval: 10000
